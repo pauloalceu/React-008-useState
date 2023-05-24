@@ -1,0 +1,17 @@
+.App {
+    text-align: center;
+
+  }
+ 
+  h1 {
+   color:chartreuse;
+  }
+
+.estilo
+  {
+      width: 50%; 
+      height: auto;
+      border: 3px solid #0000ff;
+      margin-bottom: 10px;
+  }
+  
